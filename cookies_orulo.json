@@ -1,0 +1,235 @@
+[
+  {
+    "name": "ahoy_visitor",
+    "value": "25ed8433-c957-4a3a-a0ed-da7e5445ee15",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "expires": 1770351298,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "ahoy_visit",
+    "value": "3a282cf9-b081-4561-b760-c0748a9d7243",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "expires": 1735805855,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.2.1735791312179.200596715672383786",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1743567456,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "user_access_token",
+    "value": "Lcva_JEVmLIRI5GiSMfgLmCnfZH90VQZWU0lKGUMUh8",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "current_customer",
+    "value": "Matheus",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "CookieConsent",
+    "value": "{stamp:'Zh54Cq/6lv/wYn7TBF3LMxi3Qq/MGEXxot4p1LqI08N0LsvAbQB95A==',necessary:true,preferences:true,statistics:true,marketing:true,method:'explicit',ver:1,utc:1735791375292,region:'br'}",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "expires": 1767327375,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.183416665.1735791366",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1743567365,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.3.1163537396.1735791366",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1735877865,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hjSession_283159",
+    "value": "eyJpZCI6ImNhZWQwZmE1LTUwNWUtNGVlNi1iZWMyLTljODA0MmM5YTM2OSIsImMiOjE3MzU3OTEzNjYyNzEsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxfQ==",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1735795469,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "download_app",
+    "value": "true",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_BEAMER_USER_ID_hHThCBGm34278",
+    "value": "35b6e4b8-37a6-47d6-8c8a-5c6fb1403460",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1761711456,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_BEAMER_FIRST_VISIT_hHThCBGm34278",
+    "value": "2025-01-02T04:17:21.159Z",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1761711456,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hjSessionUser_283159",
+    "value": "eyJpZCI6Ijc0ZDkxMTQ1LTM1M2MtNThmMi1hN2NhLTRjNjJkMTllNTY4MiIsImNyZWF0ZWQiOjE3MzU3OTEzNjYyNjcsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1767327456,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_corretordireto_site_session",
+    "value": "BAh7DU...",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "previous_url",
+    "value": "https%3A%2F%2Fwww.orulo.com.br%2Fbuildings%2F61966",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "current_url",
+    "value": "https%3A%2F%2Fwww.orulo.com.br%2Fapi%2Fv1%2Finteractions",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_orulo_session",
+    "value": "BAh7DUkiD3Nlc3Npb25faWQGOgZFVEkiJWQzZjc3ZTU0NWJm...",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "introjs-new-contact-view-intro",
+    "value": "1",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "expires": 1738383455,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_BEAMER_LAST_PUSH_PROMPT_INTERACTION_hHThCBGm34278",
+    "value": "1735791465012",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1761711465,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.3.281950169.1735791365",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1770351465,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALB",
+    "value": "R+jlLRUqDCU7cMVrDc6kX+z+CsMDyIIQt0A8iwDEOsg6f9KERWdIWFcq1UBVo5MMtiFAJ3Eslho8DnW4TcJ4BeLTLeW7KQzf7nogYeOah4w0ciKpJXoDfW2U4404YPdN5caNhZMjCXrpSd6ql/O+etAeTCVc7Vq64Fl9GRumRXuu4JOGIANXKqLXvXvLqw==",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "expires": 1736396266,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "R+jlLRUqDCU7cMVrDc6kX+z+CsMDyIIQt0A8iwDEOsg6f9KERWdIWFcq1UBVo5MMtiFAJ3Eslho8DnW4TcJ4BeLTLeW7KQzf7nogYeOah4w0ciKpJXoDfW2U4404YPdN5caNhZMjCXrpSd6ql/O+etAeTCVc7Vq64Fl9GRumRXuu4JOGIANXKqLXvXvLqw==",
+    "domain": "www.orulo.com.br",
+    "path": "/",
+    "expires": 1736396266,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_3CSZY35PTW",
+    "value": "GS1.1.1735791439.1.1.1735791758.0.0.0",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1770351758,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "cf_clearance",
+    "value": "H2PFLhrRiFSbPYTmGKJ...",
+    "domain": ".orulo.com.br",
+    "path": "/",
+    "expires": 1767327440,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
