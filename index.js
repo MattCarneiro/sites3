@@ -387,7 +387,7 @@ app.post('/create-pdf', async (req, res) => {
             return res.send({ message: 'Solicitação ignorada (já processada nos últimos 30 minutos).' });
         } else {
             // Armazena no Redis com TTL de 30 minutos (1800 segundos)
-            await redisClient.setEx(duplicateKey, 1800, 'processed');
+            await redisClient.setEx(duplicateKey, 180, 'processed');
 
             const msgContent = { link, Id, context, UserMsg, MsgIdPhoto, MsgIdVideo, MsgIdPdf, site1, site2 };
             const QUEUE_NAME = process.env.QUEUE_NAME;
